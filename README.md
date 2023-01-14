@@ -3,8 +3,8 @@
 ## Subtack 1
 9
 ## Subtask 3
-<p align="justify"> Hej jestem Sonia, z wykształcenia inżynier budownictwa szukający swojej życiowej ścieżki. Aktualnie kończę urlop macierzyński i od dłuższego czasu móżdżę, jak to zrobić by nie wracać do znienawidzonej pracy w urzędzie :D Po przegrzaniu wielu zwojów mózgowych doszłam do wniosku, że chcę zmienić brażę i spróbować IT. Gdy poznałazm cechy idealnego testera - stwierdziłam "to jest to!". I tak się tu znalazłam. A co jest moim celem? Podjęcie nowego wyzwania, sprawdzenie siebie, dobra zabawa i tworzenie nowych ścieżek neuronowych w kopułce :) </p>
-# **Task 1**
+Hej jestem Sonia, z wykształcenia inżynier budownictwa szukający swojej życiowej ścieżki. Aktualnie kończę urlop macierzyński i od dłuższego czasu móżdżę, jak to zrobić by nie wracać do znienawidzonej pracy w urzędzie :D Po przegrzaniu wielu zwojów mózgowych doszłam do wniosku, że chcę zmienić brażę i spróbować IT. Gdy poznałazm cechy idealnego testera - stwierdziłam "to jest to!". I tak się tu znalazłam. A co jest moim celem? Podjęcie nowego wyzwania, sprawdzenie siebie, dobra zabawa i tworzenie nowych ścieżek neuronowych w kopułce :) 
+
 ## Subtask 4
 Aplikacja dla skautów piłki nożnej to taka baza danych, dotycząca poszczególnych piłkarzy i informacji na ich temat. 
 Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza. Następnie pozwala na dodawanie do konkretnego gracza meczów oraz raportów. Można następnie przeglądać listę graczy, wyfiltrować interesującą nas część danych, posortować, wydrukować itd. 
