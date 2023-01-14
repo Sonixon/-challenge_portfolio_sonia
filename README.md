@@ -6,12 +6,12 @@
 Hej jestem Sonia, z wykształcenia inżynier budownictwa szukający swojej życiowej ścieżki. Aktualnie kończę urlop macierzyński i od dłuższego czasu móżdżę, jak to zrobić by nie wracać do znienawidzonej pracy w urzędzie :D Po przegrzaniu wielu zwojów mózgowych doszłam do wniosku, że chcę zmienić brażę i spróbować IT. Gdy poznałazm cechy idealnego testera - stwierdziłam "to jest to!". I tak się tu znalazłam. A co jest moim celem? Podjęcie nowego wyzwania, sprawdzenie siebie, dobra zabawa i tworzenie nowych ścieżek neuronowych w kopułce :) 
 
 ## Subtask 4
-Aplikacja dla skautów piłki nożnej to taka baza danych, dotycząca poszczególnych piłkarzy i informacji na ich temat. 
+\1.Aplikacja dla skautów piłki nożnej to taka baza danych, dotycząca poszczególnych piłkarzy i informacji na ich temat. 
 Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza. Następnie pozwala na dodawanie do konkretnego gracza meczów oraz raportów. Można następnie przeglądać listę graczy, wyfiltrować interesującą nas część danych, posortować, wydrukować itd. 
-Interfejs aplikacji jest bardzo prosty, białe tło, kilka przycisków. Generalnie nie bardzo mi się podoba.
-Schemat działani aplikacji jest bardzo prosty, a mimo to mało intuicyjny. Trzeba się trochę naklikać i napróbować, żeby obczaić jak to działa. Podstawowa funkcja czyli dodawnie gracza jest umieszczone w rubryce "linki pomocnicze", mogłoby to być w panelu po lewej stronie w formie przycisku z kolorowym tłem, tak by każdy użytkownik od razu ten przycisk zauważył. W tym momencie ten przycisk wygląda jak podejrzany link, w który lepiej nie klikać bo coś wybuchnie :) Kolejne funkcjonalności, czyli dodawanie meczy i raportów również jest mało intuicyjne. Niektóre pola formularza są tak nazwane, że nie wiadomo o co chodzi np. "Łączy nas piła", albo "90 minut". Przyciski działają wolno. Poza tym aplikacja mogłaby nas wylogować, po jakimś czasie braku ruchu. 
+\2.Interfejs aplikacji jest bardzo prosty, białe tło, kilka przycisków. Generalnie nie bardzo mi się podoba.
+\3.Schemat działani aplikacji jest bardzo prosty, a mimo to mało intuicyjny. Trzeba się trochę naklikać i napróbować, żeby obczaić jak to działa. Podstawowa funkcja czyli dodawnie gracza jest umieszczone w rubryce "linki pomocnicze", mogłoby to być w panelu po lewej stronie w formie przycisku z kolorowym tłem, tak by każdy użytkownik od razu ten przycisk zauważył. W tym momencie ten przycisk wygląda jak podejrzany link, w który lepiej nie klikać bo coś wybuchnie :) Niektóre pola formularza są tak nazwane, że nie wiadomo o co chodzi np. "Łączy nas piła", albo "90 minut". Kolejne funkcjonalności, czyli dodawanie meczy i raportów również jest mało intuicyjne. Przyciski działają wolno. Poza tym aplikacja mogłaby nas wylogować, po jakimś czasie braku ruchu. 
 
-Uważam, że błędów tu jest całe mnóstwo. Spróbuję wymienić to co najbardziej rzuciło mi się w oczy:
+\4.Uważam, że błędów tu jest całe mnóstwo. Spróbuję wymienić to co najbardziej rzuciło mi się w oczy:
 * w formularzu dodawania gracza gwiazdka powinna być opisana na dole, że jest to pole wymagane,
 * wagę i wzrost gracza możemy wybrać lub wklepać jako liczby ujemne,
 * w polach gdzie powinno być ograniczenie tylko do tekstu, można wklejać dowolne znaki np. emotikony, czy znaki specjalne,
