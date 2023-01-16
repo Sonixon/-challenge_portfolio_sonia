@@ -25,6 +25,7 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza,
 * zmiana języka nie wiąże się z całkowitym przejściem na dany język, przykładowo w polskim nadal niektóre przyciski są po angielsku.
 
 ## Subtask 5 - Jira
-Grupa: sirtester 
-Projekt: challenge portfolio projekt
+*Grupa: sirtester* 
+
+*Projekt: challenge portfolio projekt*
 
