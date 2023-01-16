@@ -1,4 +1,4 @@
-# **Task 1**
+# **Task 1 - Testy eksploracyjne** 
 ## Subtack 1 - Wyciągamy karteczki
 Liczba punktów - **9** :blush:
 
