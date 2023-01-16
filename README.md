@@ -1,4 +1,4 @@
-
+<html>
 # **Task 1**
 ## Subtack 1
 9
@@ -25,3 +25,4 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza.
 * nie widzę możliwości usunięcia gracza,
 * lista wszystkich graczy mogłaby mieć przycisk odsyłający do ostatniej strony listy graczy,
 * zmiana języka nie wiąże się z całkowitym przejściem na dany język, przykładowo w polskim nadal niektóre przyciski są po angielsku.
+</html>
