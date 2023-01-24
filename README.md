@@ -33,3 +33,16 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza,
 
 *Projekt: challenge portfolio projekt*
 
+# **Task 2 - Przypadki testowe (Test cases)** 
+## Subtack 1 -  Pisanie przypadków testowych na podstawie User Story
+https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit
+
+## Subtack 2 - Pisanie przypadków testowych na podstawie “własnych doświadczeń
+https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit
+
+## Subtack 3 - Po co piszemy test case’y?
+
+
+## Subtack 4 - DLA CHĘTNYCH
+https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091
+
