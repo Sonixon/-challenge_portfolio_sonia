@@ -33,7 +33,9 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza,
 
 *Projekt: challenge portfolio projekt*
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # **Task 2 - Przypadki testowe (Test cases)** 
 
