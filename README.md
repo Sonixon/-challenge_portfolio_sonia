@@ -51,3 +51,16 @@ Test case'y piszemy w celu przejrzystego przedstawienia funkcjonalności danej a
 ## Subtack 4 - DLA CHĘTNYCH
 https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# **Task 3 - Raportowanie błędów**
+
+## Subtack 1 - Utworzenie formatki do zgłaszania błędów systemu
+
+## Subtack 2 - Testowanie według planów testów i raportowanie błędów
+https://docs.google.com/document/d/10lpYHfWj8wLjSqiuV6VEXsbFCFlA7xLvsDoapBG3fvM/edit
+https://docs.google.com/document/d/16VNxmm36MtV00ReSRfcxwDUrF5s4BF3ZJTZOE_02JG8/edit
+
+## Subtack 3 - Raport z wykonanych testów
+https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit
