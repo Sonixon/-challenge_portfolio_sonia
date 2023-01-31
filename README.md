@@ -48,7 +48,7 @@ https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/
 ## Subtack 3 - Po co piszemy test case’y?
 Test case'y piszemy w celu przejrzystego przedstawienia funkcjonalności danej aplikacji. Dążmy do tego by pokryć przypadkami testowymi wszystkie funkcjonalnosci aplikacji, co ułatwi później jej testowanie i raportowanie błędów. Ponadto test case'y są dobrym źródłem informacji dla pozostałych, niewtajemniczonych w aplikację osób. Generalnie przypadki testowe są bardzo ważnym aspektem pracy testera manualnego. 
 
-## Subtack 4 - DLA CHĘTNYCH
+## Subtack 4 - Dla chętnych 
 https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091
 
 
