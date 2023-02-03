@@ -3,15 +3,15 @@
 Liczba punktów - **9** :blush:
 
 ## Subtask 3 - Formatowanie README file w GitHub
-Hej jestem Sonia, z wykształcenia inżynier budownictwa szukający swojej życiowej ścieżki. Aktualnie kończę urlop macierzyński i od dłuższego czasu móżdżę, jak to zrobić by nie wracać do znienawidzonej pracy w urzędzie :D Po przegrzaniu wielu zwojów mózgowych doszłam do wniosku, że chcę zmienić brażę i spróbować IT. Gdy poznałazm cechy idealnego testera - stwierdziłam "to jest to!". I tak się tu znalazłam. A co jest moim celem? Podjęcie nowego wyzwania, sprawdzenie siebie, dobra zabawa i tworzenie nowych ścieżek neuronowych :) 
+Hej, mam na imię Sonia  - z wykształcenia inżynier budownictwa, który pragnie swój analityczny umysł wykorzystać w pracy testera oprogramowania. Aktualnie kończę urlop macierzyński, a wolny czas poświęcam na zgłębianie wiedzy i poszerzanie kompetencji zawodowych. A co jest moim celem? Podjęcie nowego wyzwania, sprawdzenie siebie, dobra zabawa i tworzenie nowych ścieżek neuronowych :) 
 
 ## Subtask 4 - Testy eksploracyjne – poznaj aplikację
 1. Aplikacja dla skautów piłki nożnej to taka baza danych, dotycząca poszczególnych piłkarzy i informacji na ich temat. 
 Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza, nastęnie na dodawanie meczów oraz raportów dla konkretnego gracza. Można następnie przeglądać listę graczy, filtrować interesującą nas część danych, posortować i wydrukować. 
 
-2. Interfejs aplikacji jest bardzo prosty, białe tło, kilka przycisków. Generalnie nie bardzo mi się podoba.
+2. Interfejs aplikacji jest bardzo prosty, białe tło, kilka przycisków. Aplikacja wydaje mi się bardzo uboga, niedopracowania graficznie i mało ciekawa dla potencjalnego użytkowanika. 
 
-4. Schemat działania aplikacji jest bardzo prosty, a mimo to mało intuicyjny. Trzeba się trochę naklikać i napróbować, żeby obczaić jak to działa. Podstawowa funkcja czyli dodawnie gracza jest umieszczone w rubryce "linki pomocnicze", mogłoby to być w panelu po lewej stronie w formie przycisku z kolorowym tłem, tak by każdy użytkownik od razu ten przycisk zauważył. W tym momencie ten przycisk wygląda jak podejrzany link, w który lepiej nie klikać bo coś wybuchnie :) Niektóre pola formularza są tak nazwane, że nie wiadomo o co chodzi np. "Łączy nas piła", albo "90 minut". Kolejne funkcjonalności, czyli dodawanie meczy i raportów również jest mało intuicyjne. Przyciski działają wolno. Poza tym aplikacja mogłaby nas wylogować, po jakimś czasie braku ruchu. 
+4. Schemat działania aplikacji jest bardzo prosty, a mimo to mało intuicyjny. Trzeba się trochę naklikać i napróbować, żeby zrozumieć jak to działa. Podstawowa funkcja czyli dodawnie gracza jest umieszczona w rubryce "linki pomocnicze", mogłoby to być w panelu po lewej stronie w formie przycisku z kolorowym tłem, tak by każdy użytkownik od razu ten przycisk zauważył. W tym momencie ten przycisk wygląda jak podejrzany link, w który lepiej nie klikać bo coś wybuchnie :) Niektóre pola formularza są tak nazwane, że nie wiadomo o co chodzi np. "Łączy nas piła", albo "90 minut". Kolejne funkcjonalności, czyli dodawanie meczy i raportów również jest mało intuicyjne. Przyciski działają wolno. Poza tym aplikacja mogłaby nas wylogować, po jakimś czasie braku ruchu. 
 
 5. Uważam, że błędów tu jest całe mnóstwo:
 * w formularzu dodawania gracza gwiazdka powinna być opisana na dole, że jest to pole wymagane,
@@ -56,11 +56,11 @@ https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fb
 
 # **Task 3 - Raportowanie błędów**
 
-## Subtack 1 - Utworzenie formatki do zgłaszania błędów systemu
-
 ## Subtack 2 - Testowanie według planów testów i raportowanie błędów
-https://docs.google.com/document/d/10lpYHfWj8wLjSqiuV6VEXsbFCFlA7xLvsDoapBG3fvM/edit
-https://docs.google.com/document/d/16VNxmm36MtV00ReSRfcxwDUrF5s4BF3ZJTZOE_02JG8/edit
+https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0
 
 ## Subtack 3 - Raport z wykonanych testów
 https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
