@@ -82,7 +82,7 @@ https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/
 ## Subtack 2 - Testowanie eksploracyjne i raportowanie błędów
 https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0
 
-## Subtack 3 - Do czego służy ta aplikacja?
+## Subtack 3 - Do czego służy ta aplikacja OLX?
 :chart: Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 
