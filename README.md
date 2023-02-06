@@ -64,3 +64,33 @@ https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# **Task 4 - Testowanie aplikacji mobilnych**
+
+## Subtack 2 - Testowanie eksploracyjne i raportowanie błędów
+https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0
+
+## Subtack 3 - Do czego służy ta aplikacja?
+*Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+Aplikacja służy do zamieszczania ogłoszeń w zakresie sprzedaży, zamiany, oddania za darmo rzeczy nowych lub używanych, a także wynajmu nieruchomości czy też zatrudnienia pracowników. Ponadto aplikacja pozwala na wyszukiwanie i przeglądanie ogłoszeń, dokonywanie zakupu, komunikację z innymi użytkowanikami, wspiera również system przesyłek. Głównym celem aplikacji jest nawiązywanie ze sobą kontaktów pomiędzy sprzedającymi a kupującymi z różnych części Polski i pośrednictwo w transakcjach finansowych.  
+
+Kto ma być użytkownikiem końcowym aplikacji?
+Użytkownikiem końcowym aplikacji mają być sprzedający i kupujący. 
+
+Czy według Ciebie aplikacja jest user friendly? 
+Jako użytkownik aplikacji OLX osobiście uważam, że jest ona user friendly. Głowne przyciski znajdują się na dole ekranu, gdzie są łatwo dostępne dla naszego kciuka. Podstawowe funkcje są wyraźnie pokazane, nie da się ich przeoczyć. Kolorowe grafiki z kategoriami umilają przeglądanie ogłoszeń. Procedura kupna przedmiotu jest również błyskawiczna dla użytkownika, praktycznie mamy tylko kilka szybkich etapów do przejścia. Możnaby troszkę dopieścić szatę graficzną aplikacji, ale poza tym funkcjonowanie appki jest intuicyjne. 
+
+
+Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+Poprawiłabym system zakupu przedmiotu. Tzn w momencie gdy ktoś kliknie "Kup z przesyłką", to zanim sprzedający zdąży zaakceptować lub odrzucić sprzedaż, ktoś inny może również dokonać zakupu. To rodzi potem niepotrzebne nieporozumienia. 
+Ponadto po dokonaniu zakupu, tzn doręczeniu przesyłki i przekazaniu środków, OLX powinien przynajmniej zaproponować zakończenie ogłoszenia. Niestey sprzedający często o tym zapomina i dochodzi do powtornego zakupu sprzdanego już przedmiotu. 
+Mogłaby się również pojawić dodatkowa opcja "Rezerwacja przedmiotu", użytkownicy często muszą tą informację zamieszczać w treści ogłoszenia. 
+
+Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+1. Aplikacja natywna musi zostać zaintalowana na urządzeniu mobilnym, czego nie wymaga aplikacja internetowa. 
+2. W przypadku apliakcji natywnej musimy wskazać nr builda, w przypadku internetowej nie. 
+3. Aplikacje natywną możemy przetestować w trybie offline, a internetową nie. 
+
+## Subtack 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
+https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16
+
+
