@@ -95,10 +95,11 @@ Mogłaby się również pojawić dodatkowa opcja "Rezerwacja przedmiotu", użytk
 
 * Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
-*
-1. Aplikacja natywna musi zostać zaintalowana na urządzeniu mobilnym, czego nie wymaga aplikacja internetowa.
-2. W przypadku apliakcji natywnej musimy wskazać nr builda, w przypadku internetowej nie.
-3. Aplikacje natywną możemy przetestować w trybie offline, a internetową nie.* 
+*1. Aplikacja natywna musi zostać zaintalowana na urządzeniu mobilnym, czego nie wymaga aplikacja internetowa.*
+
+*2. W przypadku apliakcji natywnej musimy wskazać nr builda, w przypadku internetowej nie.*
+
+*3. Aplikacje natywną możemy przetestować w trybie offline, a internetową nie.* 
 
 ## Subtack 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
 https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16
