@@ -70,7 +70,7 @@ https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/
 https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0
 
 ## Subtack 3 - Do czego służy ta aplikacja?
-* Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+:chart: Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 
 *Aplikacja służy do zamieszczania ogłoszeń w zakresie sprzedaży, zamiany, oddania za darmo rzeczy nowych lub używanych, a także wynajmu nieruchomości czy też zatrudnienia pracowników. Ponadto aplikacja pozwala na wyszukiwanie i przeglądanie ogłoszeń, dokonywanie zakupu, komunikację z innymi użytkowanikami, wspiera również system przesyłek. Głównym celem aplikacji jest nawiązywanie ze sobą kontaktów pomiędzy sprzedającymi a kupującymi z różnych części Polski i pośrednictwo w transakcjach finansowych.*  
