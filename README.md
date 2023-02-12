@@ -130,90 +130,85 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?sele
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-![1](https://user-images.githubusercontent.com/121582618/218319663-83ad281d-0d97-4a84-a27b-e4e7dedaa73f.png)
-
 SELECT * 
 FROM actors
 ORDER BY surname ASC;
 
-
+![1](https://user-images.githubusercontent.com/121582618/218319663-83ad281d-0d97-4a84-a27b-e4e7dedaa73f.png)
 
 2. Wyświetl film, który powstał w 2019 roku.
-
-![2](https://user-images.githubusercontent.com/121582618/218319726-c284b28c-e9c2-4800-9501-a6a39072e51a.png)
 
 SELECT * 
 FROM movies
 WHERE year_of_production=2019;
 
+![2](https://user-images.githubusercontent.com/121582618/218319726-c284b28c-e9c2-4800-9501-a6a39072e51a.png)
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-
-![3](https://user-images.githubusercontent.com/121582618/218319736-378358b8-71f0-4109-9cfe-e00255fca2e1.png)
 
 SELECT * 
 FROM movies
 WHERE year_of_production BETWEEN 1900 AND 1999;
 
+![3](https://user-images.githubusercontent.com/121582618/218319736-378358b8-71f0-4109-9cfe-e00255fca2e1.png)
+
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-
-![4](https://user-images.githubusercontent.com/121582618/218319742-3838e891-2766-4b6e-832d-34d3a300b533.png)
 
 SELECT title, price 
 FROM movies
 WHERE price<7;
 
+![4](https://user-images.githubusercontent.com/121582618/218319742-3838e891-2766-4b6e-832d-34d3a300b533.png)
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-
-![5](https://user-images.githubusercontent.com/121582618/218319751-140e34df-2204-46a1-82bd-2a3b358b0741.png)
 
 SELECT *
 FROM actors
 WHERE actor_id >=4 AND actor_id <= 7;
 
+![5](https://user-images.githubusercontent.com/121582618/218319751-140e34df-2204-46a1-82bd-2a3b358b0741.png)
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-
-![6](https://user-images.githubusercontent.com/121582618/218319761-a766ee04-23bf-40c3-9937-c77724282f55.png)
 
 SELECT *
 FROM customers
 WHERE CUSTOMER_ID=2 OR CUSTOMER_ID=4 OR CUSTOMER_ID=6;
 
+![6](https://user-images.githubusercontent.com/121582618/218319761-a766ee04-23bf-40c3-9937-c77724282f55.png)
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-
-![7](https://user-images.githubusercontent.com/121582618/218319765-734c6cd8-c143-4ca5-9d2a-95a8c9f1147c.png)
 
 SELECT *
 FROM customers
 WHERE CUSTOMER_ID IN (1, 3, 5);
 
+![7](https://user-images.githubusercontent.com/121582618/218319765-734c6cd8-c143-4ca5-9d2a-95a8c9f1147c.png)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-
-![8](https://user-images.githubusercontent.com/121582618/218319769-8bbf0bbe-32ca-4290-8fb7-61ac01b6f661.png)
 
 SELECT *
 FROM actors
 WHERE name like 'An%';
 
 
-9. Wyświetl dane klienta, który nie ma podanego adresu email.
+![8](https://user-images.githubusercontent.com/121582618/218319769-8bbf0bbe-32ca-4290-8fb7-61ac01b6f661.png)
 
-![9](https://user-images.githubusercontent.com/121582618/218319774-4483f69e-a6ef-43ec-8698-b6da75533f03.png)
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 SELECT * 
 FROM customers
 WHERE email is null;
 
+![9](https://user-images.githubusercontent.com/121582618/218319774-4483f69e-a6ef-43ec-8698-b6da75533f03.png)
+
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
-
-![10](https://user-images.githubusercontent.com/121582618/218319778-aaeeac76-0e10-48f4-9fd3-2805de9806b0.png)
 
 SELECT * 
 FROM movies
 WHERE (price>9) AND (movie_id BETWEEN 2 AND 8);
+
+
+![10](https://user-images.githubusercontent.com/121582618/218319778-aaeeac76-0e10-48f4-9fd3-2805de9806b0.png)
+
