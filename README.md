@@ -127,16 +127,18 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?sele
  Zapytania w języku SQL: 
 * `SELECT`
 * `FROM`
-* `ORDER BY` (`ASC`, `DESC`)
+* `ORDER BY` ... `ASC`
+* `ORDER BY` ... `DESC`
 * `WHERE`
 * `JOIN`
 
 Operatory w języku SQL:
 * `LIKE`
 * `=`
-* \`>`
-* <
-* `<>` lub `!=`
+* `>`
+* `<`
+* `<>` 
+* `!=`
 * `BETWEEN` 
 * `%`
 * `_`
