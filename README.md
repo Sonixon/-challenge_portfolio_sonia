@@ -133,6 +133,7 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?sele
 * `JOIN`
 
 Operatory w języku SQL:
+* `*`
 * `LIKE`
 * `=`
 * `>`
