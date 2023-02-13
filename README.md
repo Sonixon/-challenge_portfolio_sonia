@@ -124,6 +124,28 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?sele
 # **Task 5 - Zadanie: SQL part 1**
 ## Subtack 1 - Krótki kurs podstaw SQL
 
+** Zapytania w języku SQL: **
+* SELECT
+* FROM
+* ORDER BY (ASC, DESC)
+* WHERE 
+* JOIN
+
+Operatory w języku SQL:
+* LIKE
+* =
+* >
+* <
+* <> lub !=
+* BETWEEN 
+* %
+* _
+* AND
+* OR
+* IN
+* IS NULL
+* IS NOT NULL
+
 ## Subtack 2 - Konfiguracja środowiska i wgranie bazy danych
 
 ## Subtack 3 - Kilka zadań na rozgrzewkę
