@@ -124,7 +124,7 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?sele
 # **Task 5 - Zadanie: SQL part 1**
 ## Subtack 1 - Krótki kurs podstaw SQL
 
-** Zapytania w języku SQL: **
+ Zapytania w języku SQL: 
 * SELECT
 * FROM
 * ORDER BY (ASC, DESC)
@@ -134,7 +134,7 @@ https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?sele
 Operatory w języku SQL:
 * LIKE
 * =
-* >
+* > > \>
 * <
 * <> lub !=
 * BETWEEN 
