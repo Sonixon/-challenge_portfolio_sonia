@@ -6,7 +6,7 @@
 
 <p align="justify"> My name is Sonia Topolewska. I am a master of civil engineering and I have 12 years of experience: 4 in designing buildings, 5 in conducting investments and 3 in managing a team as a head of Investment department. I've always been a technical person and enjoyed experimenting with computers, however recently I've become interested in software testing. In my opinion, this is a future branch and very interesting development path, where patience, accuracy and analytical mind count. My goal is to develop testing knowledge and technical skills, as well use my soft skills like comunication and empathy. On this page I would like to share all my experiences gained during my personal studies and research as manual tester.</p>
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Courses
 
@@ -17,7 +17,7 @@
 :star: Kurs SQL w 120 minut on kursysql.pl
 
 :star: 4-day QA Marathon from GoIT
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Tools
@@ -35,7 +35,7 @@
 :hammer: Slack - for communication within the team
 
 :hammer: Chrome DevTools - for testing and to improve bug reports
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Tech skills
@@ -51,14 +51,22 @@
 :rocket: DevTools
 
 :rocket: Creating diagrams and decision tables
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Soft skills
+
 :chart: Good communication and interpersonal skills
+
 :chart: Accuracy 
+
 :chart: Patience
+
 :chart: Organization skills
+
 :chart: Constant desire to self-develop
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Blogs I read
 
@@ -69,7 +77,7 @@
 :rainbow: pasja-informatyki.pl
 
 :rainbow: w3schools.com/sql
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## IT groups on Facebook I follow
@@ -82,7 +90,7 @@
 
  :hand: Dare IT Community
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -108,4 +116,4 @@
 
 :pushpin: Test cases for mobile aplication pickeatup.io 
 [link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
