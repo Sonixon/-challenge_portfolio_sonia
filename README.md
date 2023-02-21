@@ -62,7 +62,7 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza,
 Test case'y piszemy w celu przejrzystego przedstawienia funkcjonalności danej aplikacji. Dążmy do tego by pokryć przypadkami testowymi wszystkie funkcjonalnosci aplikacji, co ułatwi później jej testowanie i raportowanie błędów. Ponadto test case'y są dobrym źródłem informacji dla pozostałych, niewtajemniczonych w aplikację osób. Generalnie przypadki testowe są bardzo ważnym aspektem pracy testera manualnego. 
 
 ## Subtack 4 - Dla chętnych 
-[link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091]
+[link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -332,4 +332,4 @@ VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 Liczba punktów - **9** :blush:
 
 ## Subtask 3 - Tworzymy porfolio
-[link](https://github.com/Sonixon/-challenge_portfolio_sonia/blob/main/Portfolio2.md)
+[PORTFOLIO](https://github.com/Sonixon/-challenge_portfolio_sonia/blob/main/Portfolio2.md)
