@@ -9,42 +9,67 @@ My name is Sonia Topolewska. I am a master of civil engineering and I have 12-ye
 ## Courses
 
 :star: Dare IT challenge - Zostań testerem manualnym
+
 :star: Konsola Deweloperska Devtools on szkoleniedlaqa.pl
+
 :star: Kurs SQL w 120 minut on kursysql.pl
+
 :star: 4-day QA Marathon from GoIT
+
 
 ## Tools
 
 :hammer: Jira - bug tracker
+
 :hammer: TestRail - test cases management
+
 :hammer: GitHub
+
 :hammer: MySQL - relational database management system
+
 :hammer: XAMPP - relational database management system
+
 :hammer: Slack - for communication within the team
+
 :hammer: Chrome DevTools - for testing and to improve bug reports
+
 
 ## Tech skills
 
 :wrench: SQL
+
 :wrench: DevTools
+
 :wrench: Software testing
+
 :wrench: Creating test cases
+
 :wrench: Reporting bugs
+
 :wrench: Creating diagrams and decision tables
+
 
 ## Blogs I read
 
 :computer: testerzy.pl
+
 :computer: tester.milenabednarczyk.pl
+
 :computer: pasja-informatyki.pl
-:computer: www.w3schools.com/sql
+
+:computer: w3schools.com/sql
+
 
 ## IT groups on Facebook I follow
 
 :two_women_holding_hands: Testowanie oprogramowania
+
 :two_women_holding_hands: Testuj, Dziewczyno!
+
 :two_women_holding_hands: Tester oprogramowania - wsparcie na starcie
+
 :two_women_holding_hands: Dare IT Community
+
 
 ## My projects
 
