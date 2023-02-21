@@ -53,6 +53,12 @@
 :rocket: Creating diagrams and decision tables
 
 
+## Soft skills
+:chart: Good communication and interpersonal skills
+:chart: Accuracy 
+:chart: Patience
+:chart: Organization skills
+:chart: Constant desire to self-develop
 
 ## Blogs I read
 
