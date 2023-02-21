@@ -278,6 +278,7 @@ INNER JOIN movies ON sale.movie_id=movies.movie_id;
 ADD pseudonym VARCHAR(3);
 UPDATE customers
 SET psudonym = CONCAT(LEFT (name, 2), RIGHT (surname, 1))
+
 ![15](https://user-images.githubusercontent.com/121582618/220305980-7523a484-5e6d-4606-9cd2-c9ba3dfc43dd.png)
 
 
@@ -294,6 +295,7 @@ ON movies.movie_id = sale.movie_id;
 UNION 
 SELECT name FROM customers
 ORDER BY name;
+
 ![17](https://user-images.githubusercontent.com/121582618/220306037-5c03c821-8d50-4dc3-b56a-8eecc7123293.png)
 
 
