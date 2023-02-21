@@ -316,7 +316,7 @@ WHERE actors.actor_id=4;
 
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
-*INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+* INSERT INTO customers (customer_id, name, surname, email, pseudonym)
 VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 * ![20](https://user-images.githubusercontent.com/121582618/220306089-eeb2e90d-3872-4187-9f48-0eb8bba929d1.png)
 
