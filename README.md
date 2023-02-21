@@ -252,12 +252,12 @@ WHERE customer_id=3;
 
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
-* SELECT *
-FROM customers
-JOIN sale
-ON customers.customer_id = sale.customer_id;
+* SELECT name, email
+FROM customers 
+JOIN sale ON customers.customer_id = sale.customer_id
+WHERE sale.movie_id=4;
 
-* ![12](https://user-images.githubusercontent.com/121582618/220305909-08dc11e2-ed4d-4503-b4e3-044a5d0e6988.png)
+* ![12](https://user-images.githubusercontent.com/121582618/220308881-6c888b2e-b613-4db5-a1c4-2b3916639af2.png)
 
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
