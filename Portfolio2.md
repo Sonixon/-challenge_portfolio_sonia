@@ -121,4 +121,5 @@
 
 :pushpin: Test cases for mobile aplication pickeatup.io 
 [link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
