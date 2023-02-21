@@ -4,7 +4,19 @@
 ## About me
 
 
-<p align="justify"> My name is Sonia Topolewska. I am a master of civil engineering and I have 12 years of experience: 4 in designing buildings, 5 in conducting investments and 3 in managing a team as a head of Investment department. I've always been a technical person and enjoyed experimenting with computers, however recently I've become interested in software testing. In my opinion, this is a future direction and very interesting development path, where patience, accuracy and analytical mind count. My goal is to develop testing knowledge and technical skills, as well use my soft skills like comunication and empathy. On this page I would like to share all my experiences gained during my personal studies and research as manual tester.</p>
+<p align="justify"> My name is Sonia Topolewska. I am a master of civil engineering and I have 12 years of experience: 4 in designing buildings, 5 in conducting investments and 3 in managing a team as a head of Investment department. I've always been a technical person and enjoyed experimenting with computers, however recently I've become interested in software testing. In my opinion, this is a future branch and very interesting development path, where patience, accuracy and analytical mind count. My goal is to develop testing knowledge and technical skills, as well use my soft skills like comunication and empathy. On this page I would like to share all my experiences gained during my personal studies and research as manual tester.</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
