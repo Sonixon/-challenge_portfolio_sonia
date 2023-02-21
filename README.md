@@ -53,16 +53,16 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza,
 # **Task 2 - Przypadki testowe (Test cases)** 
 
 ## Subtack 1 -  Pisanie przypadków testowych na podstawie User Story
-https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit
+[link](https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit)
 
 ## Subtack 2 - Pisanie przypadków testowych na podstawie “własnych doświadczeń
-https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit
+[link](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)
 
 ## Subtack 3 - Po co piszemy test case’y?
 Test case'y piszemy w celu przejrzystego przedstawienia funkcjonalności danej aplikacji. Dążmy do tego by pokryć przypadkami testowymi wszystkie funkcjonalnosci aplikacji, co ułatwi później jej testowanie i raportowanie błędów. Ponadto test case'y są dobrym źródłem informacji dla pozostałych, niewtajemniczonych w aplikację osób. Generalnie przypadki testowe są bardzo ważnym aspektem pracy testera manualnego. 
 
 ## Subtack 4 - Dla chętnych 
-https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091
+[link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091]
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,17 +70,17 @@ https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fb
 # **Task 3 - Raportowanie błędów**
 
 ## Subtack 2 - Testowanie według planów testów i raportowanie błędów
-https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0
+[link](https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0)
 
 ## Subtack 3 - Raport z wykonanych testów
-https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit
+[link](https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **Task 4 - Testowanie aplikacji mobilnych**
 
 ## Subtack 2 - Testowanie eksploracyjne i raportowanie błędów
-https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0
+[link](https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0)
 
 ## Subtack 3 - Do czego służy ta aplikacja OLX?
 :chart: Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
@@ -115,7 +115,7 @@ Mogłaby się również pojawić dodatkowa opcja "Rezerwacja przedmiotu", użytk
 *3. Aplikacje natywną możemy przetestować w trybie offline, a internetową nie.* 
 
 ## Subtack 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej.
-https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16
+[link](https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16)
 
 
 
@@ -331,3 +331,5 @@ VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 ## Subtask 2 - Test
 Liczba punktów - **9** :blush:
 
+## Subtask 3 - Tworzymy porfolio
+[link](https://github.com/Sonixon/-challenge_portfolio_sonia/blob/main/Portfolio2.md)
