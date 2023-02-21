@@ -270,7 +270,7 @@ WHERE customer_id = 4;
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 * SELECT customers.name, customers.surname, movies.title
-FROM `sale`
+FROM sale
 INNER JOIN customers ON sale.customer_id=customers.customer_id
 INNER JOIN movies ON sale.movie_id=movies.movie_id;
 
