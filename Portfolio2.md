@@ -8,19 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Courses
 
 :star: Dare IT challenge - Zostań testerem manualnym
@@ -30,8 +17,6 @@
 :star: Kurs SQL w 120 minut on kursysql.pl
 
 :star: 4-day QA Marathon from GoIT
-
-
 
 
 
@@ -53,8 +38,6 @@
 
 
 
-
-
 ## Tech skills
 
 :rocket: Software testing
@@ -71,8 +54,6 @@
 
 
 
-
-
 ## Blogs I read
 
 :rainbow: testerzy.pl
@@ -85,17 +66,15 @@
 
 
 
-
-
 ## IT groups on Facebook I follow
 
-:two_women_holding_hands: Testowanie oprogramowania
+ :hand: Testowanie oprogramowania
 
-:two_women_holding_hands: Testuj, Dziewczyno!
+ :hand: Testuj, Dziewczyno!
 
-:two_women_holding_hands: Tester oprogramowania - wsparcie na starcie
+ :hand: Tester oprogramowania - wsparcie na starcie
 
-:two_women_holding_hands: Dare IT Community
+ :hand: Dare IT Community
 
 
 
