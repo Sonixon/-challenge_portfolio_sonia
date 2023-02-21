@@ -1,10 +1,11 @@
-# **Portfolio**
+# **Portfolio :fire::fire::fire:**
 
 
 ## About me
 
 
 My name is Sonia Topolewska. I am a master of civil engineering and I have 12-years experience in designing buildings, conducting investments and managing a team of people as a head of Investment department. I've always been a technical person and enjoyed experimenting with computers, however recently I've become interested in software testing. In my opinion, this is a future direction and very interesting development path, where patience, accuracy and analytical mind count. My goal is to develop testing knowledge and technical skills, as well use my soft skills like comunication and empathy. On this page I would like to share all my experiences gained during my personal studies and research as manual tester. 
+
 
 ## Courses
 
@@ -15,6 +16,7 @@ My name is Sonia Topolewska. I am a master of civil engineering and I have 12-ye
 :star: Kurs SQL w 120 minut on kursysql.pl
 
 :star: 4-day QA Marathon from GoIT
+
 
 
 ## Tools
@@ -34,30 +36,33 @@ My name is Sonia Topolewska. I am a master of civil engineering and I have 12-ye
 :hammer: Chrome DevTools - for testing and to improve bug reports
 
 
+
 ## Tech skills
 
-:wrench: SQL
+:rocket: SQL
 
-:wrench: DevTools
+:rocket: DevTools
 
-:wrench: Software testing
+:rocket: Software testing
 
-:wrench: Creating test cases
+:rocket: Creating test cases
 
-:wrench: Reporting bugs
+:rocket: Reporting bugs
 
-:wrench: Creating diagrams and decision tables
+:rocket: Creating diagrams and decision tables
+
 
 
 ## Blogs I read
 
-:computer: testerzy.pl
+:rainbow: testerzy.pl
 
-:computer: tester.milenabednarczyk.pl
+:rainbow: tester.milenabednarczyk.pl
 
-:computer: pasja-informatyki.pl
+:rainbow: pasja-informatyki.pl
 
-:computer: w3schools.com/sql
+:rainbow: w3schools.com/sql
+
 
 
 ## IT groups on Facebook I follow
@@ -69,6 +74,7 @@ My name is Sonia Topolewska. I am a master of civil engineering and I have 12-ye
 :two_women_holding_hands: Tester oprogramowania - wsparcie na starcie
 
 :two_women_holding_hands: Dare IT Community
+
 
 
 ## My projects
