@@ -1,5 +1,5 @@
 # **Task 1 - Testy eksploracyjne** 
-## Subtack 1 - Wyciągamy karteczki
+## Subtask 1 - Wyciągamy karteczki
 Liczba punktów - **9** :blush: :muscle:
 
 ## Subtask 3 - Formatowanie README file w GitHub
@@ -52,16 +52,16 @@ Aplikacja pozwala na dodawanie kolejnych graczy poprzez wypełnienie formularza,
 
 # **Task 2 - Przypadki testowe (Test cases)** 
 
-## Subtack 1 -  Pisanie przypadków testowych na podstawie User Story
+## Subtask 1 -  Pisanie przypadków testowych na podstawie User Story
 [link](https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit)
 
-## Subtack 2 - Pisanie przypadków testowych na podstawie “własnych doświadczeń
+## Subtask 2 - Pisanie przypadków testowych na podstawie “własnych doświadczeń
 [link](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)
 
-## Subtack 3 - Po co piszemy test case’y?
+## Subtask 3 - Po co piszemy test case’y?
 Test case'y piszemy w celu przejrzystego przedstawienia funkcjonalności danej aplikacji. Dążmy do tego by pokryć przypadkami testowymi wszystkie funkcjonalnosci aplikacji, co ułatwi później jej testowanie i raportowanie błędów. Ponadto test case'y są dobrym źródłem informacji dla pozostałych, niewtajemniczonych w aplikację osób. Generalnie przypadki testowe są bardzo ważnym aspektem pracy testera manualnego. 
 
-## Subtack 4 - Dla chętnych 
+## Subtask 4 - Dla chętnych 
 [link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
 
 
@@ -69,20 +69,20 @@ Test case'y piszemy w celu przejrzystego przedstawienia funkcjonalności danej a
 
 # **Task 3 - Raportowanie błędów**
 
-## Subtack 2 - Testowanie według planów testów i raportowanie błędów
+## Subtask 2 - Testowanie według planów testów i raportowanie błędów
 [link](https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0)
 
-## Subtack 3 - Raport z wykonanych testów
+## Subtask 3 - Raport z wykonanych testów
 [link](https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **Task 4 - Testowanie aplikacji mobilnych**
 
-## Subtack 2 - Testowanie eksploracyjne i raportowanie błędów
+## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów
 [link](https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0)
 
-## Subtack 3 - Do czego służy ta aplikacja OLX?
+## Subtask 3 - Do czego służy ta aplikacja OLX?
 :chart: Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 
@@ -122,7 +122,7 @@ Mogłaby się również pojawić dodatkowa opcja "Rezerwacja przedmiotu", użytk
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **Task 5 - Zadanie: SQL part 1**
-## Subtack 1 - Krótki kurs podstaw SQL
+## Subtask 1 - Krótki kurs podstaw SQL
 
  Zapytania w języku SQL: 
 * `SELECT`
@@ -149,9 +149,9 @@ Operatory w języku SQL:
 * `IS NULL`
 * `IS NOT NULL`
 
-## Subtack 2 - Konfiguracja środowiska i wgranie bazy danych
+## Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
 
-## Subtack 3 - Kilka zadań na rozgrzewkę
+## Subtask 3 - Kilka zadań na rozgrzewkę
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
@@ -241,7 +241,7 @@ WHERE (price>9) AND (movie_id BETWEEN 2 AND 8)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **Task 6 - Zadanie: SQL part 2**
-## Subtack 1 - Krótki kurs podstaw SQL
+## Subtask 1 - Krótki kurs podstaw SQL
 
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 * UPDATE customers
