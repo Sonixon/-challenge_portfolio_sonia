@@ -3,7 +3,7 @@
 Liczba punktów - **9** :blush: :muscle:
 
 ## Subtask 3 - Formatowanie README file w GitHub
-Hej, mam na imię Sonia  - z wykształcenia inżynier budownictwa, który pragnie wykorzystać swój analityczny umysł w pracy testera manualnego. Aktualnie rozpoczynam staż testera manualnego w SoftBlue S.A. w Bydgoszczy, gdzie będę zajmowała się testowaniem oprogramowania do obsługi platformy AirDron - drona antysmogowego. Wolny czas poświęcam na zgłębianie wiedzy i poszerzanie kompetencji zawodowych. A co jest moim celem? Kontynuacja w podjętym wyzwaniu zmiany branży, sprawdzenie siebie, rozwój osobisty i tworzenie nowych ścieżek neuronowych :smirk::fire::fire: 
+Nazywam się Sonia Topolewska - z wykształcenia inżynier budownictwa, który pragnie wykorzystać swój analityczny umysł w pracy testera manualnego. Aktualnie rozpoczynam staż testera manualnego w SoftBlue S.A. w Bydgoszczy, gdzie będę zajmowała się testowaniem oprogramowania do obsługi platformy AirDron - drona antysmogowego. Wolny czas poświęcam na zgłębianie wiedzy i poszerzanie kompetencji zawodowych. A co jest moim celem? Kontynuacja w podjętym wyzwaniu zmiany branży, sprawdzenie siebie, rozwój osobisty i tworzenie nowych ścieżek neuronowych :smirk::fire::fire: 
 
 ## Subtask 4 - Testy eksploracyjne – poznaj aplikację
 1. Aplikacja dla skautów piłki nożnej to taka baza danych, dotycząca poszczególnych piłkarzy i informacji na ich temat. 
