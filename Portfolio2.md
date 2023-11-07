@@ -8,6 +8,31 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## My projects
+
+###For Web applications
+
+###Short introduction: The project was focused on testing the [website](scouts-test.futbolkolektyw.pl), mainly based on exploratory testing and user stories.
+
+### Test cases
+:pushpin: 
+[BasedOnUserStories](https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit)
+[BasedOnExploratoryTesting](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)
+
+:bug: Bug report
+[ForScoutsPanel](https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0)
+[ShortBugReportForScoutsPanel](https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit)
+[Forswipeto.pl](https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16)
+
+###My projects for Mobile Applications
+:pushpin: Test cases for mobile aplication pickeatup.io 
+[forpickeatup.io](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
+
+:bug: Bug report from mobile aplication OLX
+[ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Courses
 
 :star: Dare IT challenge - Zostań testerem manualnym
@@ -99,27 +124,4 @@
 
 
 
-## My projects
 
-### Bugs
-:bug: Bug report on scouts.futbolkolektyw.pl
-[link](https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0)
-
-:bug: Report from bugs for scouts.futbolkolektyw.pl
-[link](https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit)
-
-:bug: Bug report from mobile aplication OLX
-[link](https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0)
-
-:bug: Bug report from the website swipeto.pl
-[link](https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16)
-
-### Test cases
-:pushpin: Test cases for scouts-test.futbolkolektyw.pl
-[link1](https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit)
-[link2](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)
-
-:pushpin: Test cases for mobile aplication pickeatup.io 
-[link](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
