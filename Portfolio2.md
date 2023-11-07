@@ -46,6 +46,11 @@
 
 :point_right:[ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0)
 
+
+#### SQL
+
+:point_right: [SQL](https://docs.google.com/document/d/1ckume2VM330PzyaN4zw8vQXUzatCmDpJZDC45fxG17Y/edit)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Courses
