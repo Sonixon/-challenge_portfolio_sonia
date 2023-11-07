@@ -15,6 +15,7 @@
 #### Short introduction: The project was focused on testing the [website](https://scouts-test.futbolkolektyw.pl), mainly based on exploratory testing and user stories.
 
 
+
 :clipboard: Test cases
 
 :point_right: [BasedOnUserStories](https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit)
@@ -22,7 +23,8 @@
 :point_right: [BasedOnExploratoryTesting](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)
 
 
-:bug: Bug report
+
+:bug: Bug reports
 
 :point_right: [ForScoutsPanel](https://docs.google.com/spreadsheets/d/1OhVn8Bs9auQadCJCn_fOIghmQUrdW6sNKlw2kdIDDZY/edit#gid=0)
 
@@ -33,9 +35,11 @@
 #### My projects for Mobile Applications
 
 
+
 :clipboard: Test cases for mobile aplication pickeatup.io 
 
 :point_right:[forpickeatup.io](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?fbclid=IwAR1VrGerm9mJfK_jdZjF7ljvzM6gc17t6MIOvbAdksK9DbPZ_hefSKePD4w&pli=1#gid=25870091)
+
 
 
 :bug: Bug report from mobile aplication OLX
