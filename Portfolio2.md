@@ -58,13 +58,21 @@
 
 ## Courses
 
-:star: Dare IT challenge - Zostań testerem manualnym
+:star: Dare IT Portfolio Challenge: Test Automation + Python - in progres
 
-:star: Konsola Deweloperska Devtools on szkoleniedlaqa.pl
+:star: Testowanie Oprogramowania w praktyce - Udemy
 
-:star: Kurs SQL w 120 minut on kursysql.pl
+:star: Dare IT challenge - QA Manual Testing
 
-:star: 4-day QA Marathon from GoIT
+:star: CHERRY IT COLT 1/2023 (Rest Api, Postman, Trello) 
+
+:star: Konsola Deweloperska Devtools - szkoleniedlaqa.pl
+
+:star: Kurs SQL w 120 minut - kursysql.pl
+
+:star: 4-day QA Marathon - GoIT
+
+:star: HTML/CSS Marathon - GoIT
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -82,6 +90,8 @@
 :hammer: XAMPP - relational database management system
 
 :hammer: Slack - for communication within the team
+
+:hammer: Trello - for organizing work
 
 :hammer: Chrome DevTools - for testing and to improve bug reports
 
@@ -115,12 +125,18 @@
 
 :chart: Organization skills
 
+:chart: Emphaty
+
 :chart: Constant desire to self-develop
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+##My LinkedIn profile
+:point_right:[Linkedin](linkedin.com/in/sonia-topolewska)
 
-## Blogs I read
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Recommened blogs
 
 :rainbow: testerzy.pl
 
@@ -129,6 +145,10 @@
 :rainbow: pasja-informatyki.pl
 
 :rainbow: w3schools.com/sql
+
+:rainbow: guru99.com
+
+:rainbow: pwicherski.gitbook.io
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
