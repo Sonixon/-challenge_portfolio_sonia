@@ -12,7 +12,7 @@
 
 #### For Web applications
 
-#### Short introduction: The project was focused on testing the [website](https://scouts-test.futbolkolektyw.pl), mainly based on exploratory testing and user stories.
+*Short introduction: The project was focused on testing the [website](https://scouts-test.futbolkolektyw.pl), mainly based on exploratory testing and user stories.*
 
 
 
