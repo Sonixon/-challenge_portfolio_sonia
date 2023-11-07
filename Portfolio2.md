@@ -20,7 +20,8 @@
 
 :point_right: [BasedOnUserStories](https://docs.google.com/document/d/18wgTtFV4Ljza61ulkctG6leaGCW4PWpcjORW5GxpMcc/edit)
 
-:point_right: [BasedOnExploratoryTesting](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)
+:point_right: [BasedOnExploratoryTesting](https://docs.google.com/document/d/1yK46afoGbRQEUS2-d7SiADxkT3Y1TyQMO02mWkaqEd8/edit)  
+
 
 
 
@@ -30,7 +31,8 @@
 
 :point_right: [ShortBugReportForScoutsPanel](https://docs.google.com/document/d/1WZ-WwZ6n2dnYP1NNNGU1uUfqRL9SLxI3oFGGBWs1PPw/edit)
 
-:point_right:[Forswipeto.pl](https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16)
+:point_right:[Forswipeto.pl](https://sirtester.atlassian.net/jira/software/projects/CPP/boards/1/backlog?selectedIssue=CPP-16)  
+
 
 #### My projects for Mobile Applications
 
@@ -46,6 +48,7 @@
 
 :point_right:[ExploratoryTestingForMobileApp](https://docs.google.com/spreadsheets/d/1um4M3XI1Zzp3HBMtyfY8QQmoY3JgcxiVeKHaHTGVX-Q/edit#gid=0)
 
+  
 
 #### SQL
 
